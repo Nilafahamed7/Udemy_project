@@ -19,4 +19,4 @@ HTML5
 
 CSS3 (Flexbox, Grid, Media Queries)
 
-![project preview](images/udemy-pic.png)
+![project preview](images/udemy-pic.PNG)
